@@ -128,7 +128,7 @@ function App() {
 
     return (
         <div className="container">
-            <h2>AI CUSTOM SERVICE</h2>
+            <h2>AI FULL CUSTOM SERVICE</h2>
             <div>
                 <h3>Chatting List</h3>
                 <div>
